@@ -12,4 +12,5 @@ open CE888finalproject folder to see further details about assignment 2
 
 
 # Resit Assignment submission date 15 September 
-open CE888finalproject folder to see further details about assignment 2
+for Resit courseword code download two SAQIB44505_p1.ipynb and SAQIB44505_p2.ipynb .ipynb file and run into jupyter notebook 
+
